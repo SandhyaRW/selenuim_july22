@@ -1,3 +1,3 @@
 # selenuim_july22
-All Selenum Basic programs
+All Selenium Basic programs
 All Test NG programs
